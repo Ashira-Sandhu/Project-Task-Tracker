@@ -10,4 +10,5 @@ main.js : This is the javascript code for the functionality of the Task Tracker 
 In order to run this code download all the files listed above and open using Visual Studio Code to customize as per your requirenments.
 
 Click on index.html in order to run the Task Tracker in your browser.
-credit: 
+
+Credit: Tyler Potts
