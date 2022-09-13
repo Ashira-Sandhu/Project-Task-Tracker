@@ -1,5 +1,5 @@
 # Project-Task-Tracker
-Task Tracker is a handy tool that aids in the effective management of daily tasks. It ensures that no chores slip through the gaps.  
+Task Tracker is a handy tool that aids in the effective management of daily tasks with the ability to display, create, edit and delete tasks. It ensures that no tasks slip through the gaps.  
 
 This project repository includes the following files:  
 
